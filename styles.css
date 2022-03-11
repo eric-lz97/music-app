@@ -136,7 +136,7 @@ video {
 
 .artist-wrapper {
   display: flex;
-  flex-wrap: wrap;
+
 }
 
 .artist-wrapper img {
